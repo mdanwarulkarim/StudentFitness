@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772297353650",
+    "project_id": "studentfitness-1b690",
+    "storage_bucket": "studentfitness-1b690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772297353650:android:4163ba7107f1cb0dcf9cab",
+        "android_client_info": {
+          "package_name": "com.student.student_fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772297353650-kkkctfacqitp0v3emh7eq37t2vfuahcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0WhEDNFJAHrf5otPxJOCvkVqlamhwTr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772297353650-kkkctfacqitp0v3emh7eq37t2vfuahcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
